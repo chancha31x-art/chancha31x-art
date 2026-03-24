@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CHA</h1>
-<h3 align="center">A passionate frontend developer and SEO Specialist from Thailand</h3>
+<h3 align="center">Frontend Developer ⚡ & SEO Specialist from Thailand 🇹🇭</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chancha31x-art&label=Profile%20views&color=0e75b6&style=flat" />
@@ -7,7 +7,11 @@
 
 ---
 
-### 🚀 About Me
+### 🐱 About Me (with cat energy)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+</p>
 
 - 🌱 I’m currently learning **Node.js, Nuxt.js, Vue.js, Typescript**
 - 👨‍💻 All of my projects 👉 https://cha-portfolio.xyz/
@@ -18,20 +22,20 @@
 
 ### 🌐 Connect with me
 
-<p align="left">
-<a href="https://linkedin.com/in/ritsak-yernburee-9b4311372" target="blank">
+<p align="center">
+<a href="https://linkedin.com/in/ritsak-yernburee-9b4311372">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://www.seoprodev.com/feed/" target="blank">
+<a href="https://www.seoprodev.com/feed/">
 <img src="https://skillicons.dev/icons?i=devto" height="40"/>
 </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Tools
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nodejs,php,mysql,docker,nginx,git,figma,tailwind,postman" />
 </p>
 
@@ -40,9 +44,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chancha31x-art&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chancha31x-art&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chancha31x-art&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chancha31x-art&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### 🐾 Fun Zone
+
+<p align="center">
+  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="200"/>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile ✨</p>
