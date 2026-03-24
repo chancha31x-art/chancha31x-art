@@ -36,7 +36,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nodejs,php,mysql,docker,nginx,git,figma,tailwind,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,php,mysql,docker,git,figma,tailwind" />
 </p>
 
 ---
