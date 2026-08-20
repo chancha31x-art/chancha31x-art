@@ -14,7 +14,7 @@
 </p>
 
 - 🌱 I’m currently learning **Node.js, Nuxt.js, Vue.js, Typescript**
-- 👨‍💻 All of my projects 👉 https://cha-portfolio.xyz/
+- 👨‍💻 All of my projects 👉 https://cha-portfolio.seoprodev.in.th/
 - 💬 Ask me about **HTML, CSS, JS**
 - 📫 Reach me 👉 **chancha31x@gmail.com**
 
@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/ritsak-yernburee-9b4311372">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://www.seoprodev.com/feed/">
+<a href="https://www.seoprodev.in.th/">
 <img src="https://skillicons.dev/icons?i=devto" height="40"/>
 </a>
 </p>
